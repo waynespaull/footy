@@ -8,4 +8,4 @@ Being able to accurately and consistently predict the outcome of football games 
 
 ## Data Dictionary
 
-[Handlebars templates](http://handlebarsjs.com/)
+[Data Dictionary and Sources](https://github.com/waynespaull/footy/tree/master/data_dictionary_and_sources)
