@@ -11,8 +11,8 @@ Below you'll find a data dictionary outlining the features I created as well as 
 
 ## Links
 
-[Data Dictionary and Sources](https://github.com/waynespaull/footy/tree/master/data_dictionary_and_sources)
-[EDA, Mergers, Models](https://github.com/waynespaull/footy/tree/master/eda_models_mergers)
-[Summary, Conclusions and what next](https://github.com/waynespaull/footy/tree/master/summary)
+- [Data Dictionary and Sources](https://github.com/waynespaull/footy/tree/master/data_dictionary_and_sources)
+- [EDA, Mergers, Models](https://github.com/waynespaull/footy/tree/master/eda_models_mergers)
+- [Summary, Conclusions and what next](https://github.com/waynespaull/footy/tree/master/summary)
 
 
