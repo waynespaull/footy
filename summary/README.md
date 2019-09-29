@@ -10,9 +10,23 @@ This was a multi-class classification problem that I approached from two angles.
 
 I then created any information I thought would be relevant from before the game started in order to try and predict either 1 win (0), loss (1) or a draw (2). 
 
-- I used the xG average across the passed 5 home games in order to get a relative idea of form regardless of the final result.
+- I used the xG average for the home team across the last 5 home games in order to get a relative idea of form regardless of the final result.
+- Per Home Team I used the xG average of the away team across the five games.
 - I used the ELO difference between the Home Team and the Away team in order to get an idea of the quality divide of the game.
 - I used the results from the last five home games to get a further idea of form.
+- I split the time of the season into thirds with the reasoning being that a team may (over/under)perform depending when in the season they're playing.
+
+I applies these features to the following models: 
+
+- Standard Logistic Regression Model
+- Logistic Regression model with Ridge Penalty applied
+- Logistic Regression model with Lasso Penalty applied
+- Support Vector Machine
+- Bagging Classifier using standard Decision Tree
+- Gradient Boost Classifier Model
+- K-Nearest Neighbours Classifier Model
+
+![CV & Test Scores]('model.png')
 
 
 
