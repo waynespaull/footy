@@ -16,11 +16,10 @@ I then created any information I thought would be relevant from before the game 
 - I used the results from the last five home games to get a further idea of form.
 - I split the time of the season into thirds with the reasoning being that a team may (over/under)perform depending when in the season they're playing.
 
-I applies these features to the following models: 
+I applied these features to the following models: 
 
 - Standard Logistic Regression Model
 - Logistic Regression model with Ridge Penalty applied
-- Logistic Regression model with Lasso Penalty applied
 - Support Vector Machine
 - Bagging Classifier using standard Decision Tree
 - Gradient Boost Classifier Model
@@ -28,6 +27,20 @@ I applies these features to the following models:
 
 
 ![CV & Test Scores](model.png)
+
+## What Next:
+
+- Form against specific opponent (last 3 games)
+- Avg possession against specific opponent (when playing at home and away) (last 3 games)
+- Home AND Away form (5 games)
+- Avg Home AND Away gd (5 games)
+- Game number (1 to 38) instead of splitting season into thirds may provide more weight.
+- Wage Bill 
+- Players in each game with ratings as per Football Manager/Fifa
+- Further analysis on predict_proba results compared to bookies
+- Interactive Website
+
+
 
 
 
