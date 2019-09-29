@@ -27,7 +27,7 @@ I applies these features to the following models:
 - K-Nearest Neighbours Classifier Model
 
 
-![CV & Test Scores]('model.png')
+![CV & Test Scores](model.png)
 
 
 
