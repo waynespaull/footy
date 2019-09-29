@@ -10,7 +10,9 @@ This was a multi-class classification problem that I approached from two angles.
 
 I then created any information I thought would be relevant from before the game started in order to try and predict either 1 win (0), loss (1) or a draw (2). 
 
-- I used the xG average across the passed 5 home games in order to get a relative idea of form regardless of the final result. - I used the ELO difference between the Home Team and the Away team in order to get an idea of the quality divide of the game. - I used the results from the last five home games to get a further idea of form.
+- I used the xG average across the passed 5 home games in order to get a relative idea of form regardless of the final result.
+- I used the ELO difference between the Home Team and the Away team in order to get an idea of the quality divide of the game.
+- I used the results from the last five home games to get a further idea of form.
 
 
 
