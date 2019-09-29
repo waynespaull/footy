@@ -8,7 +8,7 @@ While the accuracy over the course of three seasons for my models (ranging from 
 
 This was a multi-class classification problem that I approached from two angles. Initially I used in game events up to half time to try and predict the Full Time Result. The baseline for this problem was .61 and my initial models were achieving around .68. This was promising but the lack of available bookmaker data from haltime lead me to abandon this route for now.
 
-I then created any information I thought would be relevant from before the game started in order to try and predict either 1 win (0), loss (1) or a draw (2). 
+I then created any information I thought would be relevant from before the game started in order to try and predict either a win (0), loss (1) or a draw (2). 
 
 - I used the xG average for the home team across the last 5 home games in order to get a relative idea of form regardless of the final result.
 - Per Home Team I used the xG average of the away team across the five games.
