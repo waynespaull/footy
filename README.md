@@ -4,7 +4,7 @@ The idea: Create a model to predict the outcome of football matches with greater
 
 ## Introduction
 
-Using two simple datasets I created a few features that performed well enough across a variety of models to make me believe that it is possible to create a model that could outperform the bookmakers. A third dataset was used to compare my results to those of the bookmakers.
+Using three datasets I created a few features that performed well enough across a variety of models to make me believe that it is possible to create a model that could outperform the bookmakers. A third dataset was used to compare my results to those of the bookmakers.
 
 ## Links
 
