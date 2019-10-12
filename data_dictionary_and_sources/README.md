@@ -4,7 +4,7 @@
 
 All my ELO scores were scraped using the api from [Club Elo](http://clubelo.com/).
 
-The bookmakers odds were downloaded from [Football-Date](http://www.football-data.co.uk/).
+The bookmakers odds were downloaded from [Football-Data](http://www.football-data.co.uk/).
 
 The xG was downloaded from [Five38](https://github.com/fivethirtyeight/data/tree/master/soccer-spi).
 
@@ -24,7 +24,7 @@ The xG was downloaded from [Five38](https://github.com/fivethirtyeight/data/tree
 - FTR_alpha: Non-numerical values of the Full Time Result for ease of reading
 - xg1_5g_avg: Avergage XG for the home team over the passed home five games
 - xg2_5g_avg: Average XG for an away team over the passed five games against the specific home team
-- gd_5g_avg: Avergae Goal Difference for the home team for the past 5 home games
+- gd_5g_avg: Average Goal Difference for the home team for the past 5 home games
 - game1: Result from the last home game
 - game2: Result from the second last home game
 - game3: Result from the third last home game
